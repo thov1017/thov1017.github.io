@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://thov1017.github.io/author/thov1017/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://thov1017.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-02-05T00:43:25+09:00</updated>
+  <id>https://thov1017.github.io/author/thov1017/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Thov’s Note | </title>
+  
+
+  
+    <subtitle>Thov's Personal Note</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">python basic 테스트</title>
+      <link href="https://thov1017.github.io/python-basic" rel="alternate" type="text/html" title="python basic 테스트" />
+      <published>2021-02-04T09:05:00+09:00</published>
+      <updated>2021-02-04T09:05:00+09:00</updated>
+      <id>https://thov1017.github.io/python-basic</id>
+      <content type="html" xml:base="https://thov1017.github.io/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-test&quot;&gt;Github python 폴더 테스트&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;python basic 테스트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Github Python basic관련 테스트 입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ThovYoon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Github python 폴더 테스트 python basic 테스트</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Github R 폴더 테스트</title>
+      <link href="https://thov1017.github.io/R_test" rel="alternate" type="text/html" title="Github R 폴더 테스트" />
+      <published>2021-02-04T08:47:00+09:00</published>
+      <updated>2021-02-04T08:47:00+09:00</updated>
+      <id>https://thov1017.github.io/R_test</id>
+      <content type="html" xml:base="https://thov1017.github.io/R_test">&lt;p&gt;Github R Test 입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ThovYoon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="R" />
+      
+
+      
+        <summary type="html">Github R Test 입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Github python 폴더 테스트</title>
+      <link href="https://thov1017.github.io/python-test" rel="alternate" type="text/html" title="Github python 폴더 테스트" />
+      <published>2021-02-04T08:45:00+09:00</published>
+      <updated>2021-02-04T08:45:00+09:00</updated>
+      <id>https://thov1017.github.io/python-test</id>
+      <content type="html" xml:base="https://thov1017.github.io/python-test">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-test&quot;&gt;Github python 폴더 테스트&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;python basic 테스트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Github Python Test 입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ThovYoon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Github python 폴더 테스트 python basic 테스트</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
